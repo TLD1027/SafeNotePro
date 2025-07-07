@@ -1,5 +1,7 @@
 ## SafeNote Pro
 
+[English](https://github.com/TLD1027/SafeNotePro/blob/main/WriteUp-en.md)
+
 ### 序
 
 **题目描述**：
